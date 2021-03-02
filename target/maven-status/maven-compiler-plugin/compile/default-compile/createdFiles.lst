@@ -1,0 +1,6 @@
+com\example\avgtime\services\TransationAverageService.class
+com\example\avgtime\TO\TransactionDetailsTO.class
+com\example\avgtime\AvgtimeApplication.class
+com\example\avgtime\ServletInitializer.class
+com\example\avgtime\serviceImpl\TransationAverageServiceImplementation.class
+com\example\avgtime\controller\TransactionAverageController.class
